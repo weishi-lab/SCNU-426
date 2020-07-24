@@ -1,0 +1,11 @@
+paopao=com.tedu.element.PaoPao
+paopao2=com.tedu.element.PaoPao2
+file=com.tedu.element.PaoPaoFile
+bluebottle=com.tedu.element.BlueBottle
+redhead=com.tedu.element.RedHead
+supercard=com.tedu.element.SuperCard
+obstacle=com.tedu.element.Obstacle
+wall=com.tedu.element.Wall
+mapbase=com.tedu.element.MapBase
+boom=com.tedu.element.PlayBoom
+Pp=com.tedu.element.Pp
